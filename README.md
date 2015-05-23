@@ -4,9 +4,9 @@ Create a shared whiteboard that allows people to collaborate with each other rem
 
 ## Minimum requirements
 
-* you must be able to draw a line with a mouse drag or finger drag.
-* you must get realtime updates: if another person draws on the board, you should see what they're doing without a refresh.
-* you must be able to use it from a mobile device.
+* You must be able to draw a line with a mouse drag or finger drag.
+* You must get realtime updates: if another person draws on the board, you should see what they're doing without a refresh.
+* You must be able to use it from a mobile device.
 
 ## Technology
 
@@ -20,10 +20,10 @@ We're looking for developers who have a good product sense. Add something you th
 
 Once you're happy with your solution, fork this repository, add your code, and submit a pull request with your solution. Answer these in your pull request:
 
-* how long did you spend on this?
-* what did you add beyond the minimum requirements? why did you think the product needed it?
-* would you use your whiteboard with friends? why or why not?
-* what would you add if you had more time?
-* what would you clean up/refactor if you had more time?
+* How long did you spend on this?
+* What did you add beyond the minimum requirements? why did you think the product needed it?
+* Would you use your whiteboard with friends? why or why not?
+* What would you add if you had more time?
+* What would you clean up/refactor if you had more time?
 
 Have fun!
