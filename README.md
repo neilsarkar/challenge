@@ -1,35 +1,29 @@
-# Mobile Chat Code Challenge
+# Collaborative Whiteboard Code Challenge
 
-Create a chat application that allows people to send messages to each other. This is an open-ended challenge with endless solutions.
+Create a shared whiteboard that allows people to collaborate with each other remotely in realtime. This is an open-ended challenge with endless solutions.
 
 ## Minimum requirements
 
-* you must be able to view messages.
-* you must be able to send a message.
-* you must get realtime updates: if another client sends a message, you should see it without a refresh.
+* you must be able to draw a line with a mouse drag or finger drag.
+* you must get realtime updates: if another person draws on the board, you should see what they're doing without a refresh.
 * you must be able to use it from a mobile device.
+
+## Technology
+
+Use whatever you want, we love to see node.js or Go on the server, and a native app is always a plus...either via Swift/Objective-C or Java or HTML and cordova. If you're using html, we recommend using Canvas or SVG.
 
 ## Creative Spin
 
-We're looking for developers who have a good product sense. Add something you think is missing from this chat experience. Bonus points for originality, but execution is paramount. Doing one of these well is much better than doing four of them poorly.
-
-Some examples:
-
-* photo support
-* typing notifications
-* likeable messages
-* native app through cordova
-* chrome/safari notifications
-* embedded media (e.g. a youtube link turns into a youtube embed)
-* multiple chat rooms
-* group conversation
+We're looking for developers who have a good product sense. Add something you think is missing from this whiteboard experience. Bonus points for originality, but execution is paramount.
 
 ## Submitting
 
-Once you're finished or bored, submit a PR with your solution. Include in this:
+Once you're happy with your solution, fork this repository, add your code, and submit a pull request with your solution. Answer these in your pull request:
 
-* how long it took
-* what you would add if you had more time
-* what you would clean up/refactor if you had more time
+* how long did you spend on this?
+* what did you add beyond the minimum requirements? why did you think the product needed it?
+* would you use your whiteboard with friends? why or why not?
+* what would you add if you had more time?
+* what would you clean up/refactor if you had more time?
 
 Have fun!
